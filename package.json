@@ -1,0 +1,6 @@
+{
+    "apps" : [{
+      "name"        : "proxy-2",
+      "script"      : "./proxy"
+    }]
+}
